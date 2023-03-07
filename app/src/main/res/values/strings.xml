@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="Welcome">Добро пожаловать</string>
+    <string name="Login_to_continue">Авторизируйтесь, чтобы продолжить</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sign_id">Войти</string>
+    <string name="create_new_account">Создать новый аккаунт</string>
+    <string name="Registr">Регистрация</string>
+    <string name="add_image">Картинка:</string>
+    <string name="name">Имя</string>
+    <string name="confirm_password">Повторите пароль</string>
+    <string name="Sing_up">Зарегистрироваться</string>
+    <string name="log_in">Уже есть аккаунт? Войти</string>
+    <string name="select_user">Выберите пользователя</string>
+    <string name="type_a_message">Введите сообщение</string>
+    <string name="Online">Онлайн</string>
+    <string name="is_program">О программе</string>
+    <string name="input_search_name">Введите имя пользователя</string>
+</resources>
